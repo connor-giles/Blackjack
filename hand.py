@@ -1,5 +1,4 @@
 """This script holds the definition of the Hand class"""
-import card
 import deck
 
 
