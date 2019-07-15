@@ -1,2 +1,6 @@
+__pycache__/hand.cpython-37.pyc
+__pycache__/card.cpython-37.pyc
+__pycache__/deck.cpython-37.pyc
+__pycache__/chips.cpython-37.pyc
+__pycache__/blackjack.cpython-37.pyc
 *.cfg
-*.pyc
